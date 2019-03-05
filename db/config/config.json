@@ -1,5 +1,6 @@
 {
   "development": {
+    "port":5432,
     "username": "postgres",
     "password": null,
     "database": "address-bloc-dev",
