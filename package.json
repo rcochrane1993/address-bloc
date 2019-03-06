@@ -4,11 +4,7 @@
   "description": "An application to model an address book in Node",
   "main": "\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[app.\u001b[C\u001b[C\u001b[C",
   "scripts": {
-<<<<<<< HEAD
-    "test": "set NODE_ENV=test && jasmine"
-=======
     "test": "set NODE_ENV=test&& jasmine"
->>>>>>> contacts-and-databases
   },
   "author": "",
   "license": "ISC",
