@@ -1,12 +1,20 @@
 {
   "development": {
+<<<<<<< HEAD
     "port": 5432,
+=======
+    "port":5432,
+>>>>>>> contacts-and-databases
     "username": "postgres",
     "password": null,
     "database": "address-bloc-dev",
     "host": "127.0.0.1",
     "dialect": "postgres",
+<<<<<<< HEAD
     "logging": false
+=======
+    "logging":false
+>>>>>>> contacts-and-databases
   },
   "test": {
     "username": "postgres",
@@ -14,6 +22,12 @@
     "database": "address-bloc-test",
     "host": "127.0.0.1",
     "dialect": "postgres",
+<<<<<<< HEAD
     "logging":false
   }
 }
+=======
+    "logging": false
+  }
+}
+>>>>>>> contacts-and-databases
